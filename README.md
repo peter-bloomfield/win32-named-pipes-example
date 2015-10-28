@@ -3,7 +3,7 @@ Simple example code for working with named pipes in C++ using the Win32 API.
 
 For a full explanation see the accompanying blog post here:
 
- * https://github.com/avidinsight/win32-named-pipes-example
+ * http://avidinsight.uk/2012/03/introduction-to-win32-named-pipes-cpp/
 
 
 ## Author
